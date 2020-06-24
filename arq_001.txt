@@ -1,3 +1,5 @@
 Teste
 Entendendo o Head
 Esta linha foi modificada no ramo master
+Entendendo o HEAD
+Esta linha foi modificada no ramo nova_ramif
